@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new bloody almanack for this insuing yeare, begining March the 25. 164[4] and ending March 25 1645. In which England i [sic] directed, [t]o foreknow what shall come to passe, according to many predictions: Being a perfect abstract of the prophesies of the best approved. Out of scripture, astrologie, and prophesy. And some observations from that admired astrologer of our daye. Mr. John Booker also other prophesies by Walgrave, Merlin, and Cardan.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75057</idno>
+            <idno type="STC">Wing A1338</idno>
+            <idno type="STC">Thomason E37_23</idno>
+            <idno type="STC">ESTC R12106</idno>
+            <idno type="EEBO-CITATION">99859208</idno>
+            <idno type="PROQUEST">99859208</idno>
+            <idno type="VID">111277</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111277)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E37[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new bloody almanack for this insuing yeare, begining March the 25. 164[4] and ending March 25 1645. In which England i [sic] directed, [t]o foreknow what shall come to passe, according to many predictions: Being a perfect abstract of the prophesies of the best approved. Out of scripture, astrologie, and prophesy. And some observations from that admired astrologer of our daye. Mr. John Booker also other prophesies by Walgrave, Merlin, and Cardan.</title>
+                  <author>Booker, John, 1603-1667.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not related to Wing A1339: A new bloody almanack, for this insuing year 1645.</note>
+                  <note>Annotation on Thomason copy: "March 15th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111277:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE NEW BLOODY</hi> ALMANACK For this inſuing yeare, begining March the 25. 164<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ending, March 25 1645. In which <hi>England</hi> i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> directed, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o foreknow what ſhall come to paſſe, according to many predictions: Being a perfect abſtract of the Propheſies of the beſt approved. Out of Scripture, Aſtrol<g ref="char:EOLhyphen"/>ogie, and Propheſy. And ſome obſervations from that admired Aſtrologer of our dayes. Mr. <hi>JOHN BOOKER.</hi>
+            </p>
+            <p>Alſo o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Propheſies by Walgr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve, Merlin, and Cardan.</p>
+            <figure>
+               <head>A cold Summer. Woods. old Men dye. much Wind. Graſſe.</head>
+               <figure>
+                  <figDesc>woodcut depicting astrological predictions.</figDesc>
+               </figure>
+               <head>
+                  <hi>Warres. commons riſing. Popery pull downe Peare Church and Kingdome Je<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi>
+               </head>
+               <figure>
+                  <figDesc>woodcut depicting astrological predictions.</figDesc>
+               </figure>
+               <head>
+                  <hi>A cold Winter. Townes f<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>d, Fea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s plenty a glorious State.</hi>
+               </head>
+               <figDesc>woodcut depicting astrological predictions.</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Hammond,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111277:2"/>
+            <div type="part">
+               <head>The new bloody Almanack.</head>
+               <p>
+                  <hi>READER,</hi> thou art heare preſented with an old <hi>Almanacks</hi> re<g ref="char:EOLhyphen"/>lation, to this inſuing yeare 1644. written one hundred thirty, and ſix yeares ſince; by <hi>John Walgrave,</hi> whoſe maniſcript hath beene kept in a library in <hi>Bedford-ſhire</hi> and now remaines in the couſtody of Mr. <hi>Iohn Gwin</hi> Miniſter of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ople</hi> in the ſame County, and it is truely gathered according to the rule of the originall coppy, written by the Authors owne hand in Vellome; with Gold, Blood, and J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck, wherein is found theſe ob<g ref="char:EOLhyphen"/>ſeruations upon the yeare in generall, <hi>viz.</hi>
+               </p>
+               <p>From the 25. of <hi>March</hi> to the laſt of <hi>December</hi> 1644. there are theſe Pictures drawen in the ſayd Vellome, <hi>viz.</hi> Bee-hives turned up ſide downe, and the Bees flying away, Arrowes flying in the ayre dead Bodyes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apt in ſhrines with Croſſes, Crucifixes on there breſts, upon the ſhrines, Moun<g ref="char:EOLhyphen"/>taines and Hills and one with a Crowne on his head and Starres about him, over which, is likewiſe written thus; <hi>viz.</hi> A cold Sommer, foule weather Bees goe away, Hunger in the Land, death of Children, a full and glorious ſtate, much wind.</p>
+               <p>From the laſt of <hi>December</hi> to <hi>March</hi> the 25. following, there are like<g ref="char:EOLhyphen"/>wiſe a Woman in Winter habit; ripe corne a great tree with an Axe lying on the ground at the roote thereof, a Lord and a Lady, with a gold ring between them, a round Globe without a Croſſe, a Bullock, two Pidgeons bil<g ref="char:EOLhyphen"/>ling each other &amp;c. a forlorn Croſſe thrown at upon the mountaines, windes. Winter ſo ſo, new Lawes, much fayre Cattle: and a fayre Sea.</p>
+               <p>Theſe be his Emblems, and theſe be his own interpretations, under which himſelfe ſubſcribed thus; which ſtill remaines in letters of Gold, <hi>viz.</hi>
+               </p>
+               <closer>
+                  <signed>Iohn Walgrave me vir ſecte</signed>
+                  <dateline>in bille ka eſer <date>Anno Dom. 1508.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:111277:2"/>
+               <head>Iohn Walgraves predictions, upon each Moneth in the yeare.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N <hi>Aprill, Sol</hi> is in <hi>Taurus,</hi> cold and moyſt (many alom) the Emblems are firſt two Women lying dead upon the ground with papers in their hands, corne growing thick, and meaſures thereof upheaped, and to Bee-hives ſubſcriped thus, If it thunder in <hi>Aprill,</hi> it tokeneth death of Women, good corne and many Bees.</p>
+               <p>In <hi>May, Sol</hi> is in <hi>Gemini,</hi> hot and moyſt, <hi>(ma tbum)</hi> the Emblems are two trees, a Sithe &amp; two young Cavaliers with Arrowes at their throats, over which is written thus, May tokeneth hunger in the Land.</p>
+               <p>In <hi>June, Sol</hi> is in <hi>Cancer,</hi> cold and moyſt (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndifferent) the Emblems are a dry and barren mountaine with dead trees, having neither fruite; nor leaves thereon, having a Lyon on the one ſide of it and a Wolfe on the other, and this inſcription upon the ſame, written over it in old (Engliſh) <hi>June</hi> tokeneth wood (that is mad and furious Beaſts,) as Wolves, Lions and others that are wild, and great Floods.</p>
+               <p>In <hi>July, Sol</hi> is in <hi>Leo,</hi> hot and dry, (evill to bleede) the pictures painted in this Vellome are for this month, are a Sithe, a Bullock: and an heart, and this obſervation thereupon, <hi>July,</hi> tokeneth good Birds and ſtrong Beaſts.</p>
+               <p>In <hi>Auguſt: Sol</hi> is in <hi>Virgo:</hi> cold and dry, (indefferent) the Emblems are a great Gun: two open hands and a woman lying ſolitary upon the ground over which is written thus <hi>Auguſt</hi> tokeneth ſore ſickneſſe and much pilgrimage.</p>
+               <p>In <hi>September, Sol</hi> is in <hi>Libra,</hi> hot and moyſt: (good to bleed) there is pictured for this Moneth men all in armour, lying dead upon the ground and gunner and fireworkes and the inſcription over the ſame is this. <hi>September:</hi> betokeneth men of the Land ſlaine in their armour.</p>
+               <p>In <hi>October, Sol</hi> is in <hi>Scorpio:</hi> (cold and moyſt:) (indifferent) the Emblems are firſt; winde iſſuing out from an heade and tops of hills and Mountaines in the middeſt of water: and laſtly great ſpreading trees from which Em<g ref="char:EOLhyphen"/>blems is obſerved <hi>viz. October</hi> betokeneth great windes; and Floods, and much fruit.</p>
+               <pb facs="tcp:111277:3"/>
+               <p>In <hi>November, Solis</hi> in <hi>Sagitarius</hi> hot and dry: (good to bleed) the Em<g ref="char:EOLhyphen"/>blems are full meaſures of corne, and great ſtore of corne growing: and this inſcription above the ſame, <hi>November</hi> betokeneth much corne, and joy in the Land.</p>
+               <p>In <hi>December Sol</hi> is in <hi>Capricornus</hi> hot and dry: (good to bleed) the Em<g ref="char:EOLhyphen"/>blems are a veſſell of Wine, and men and women embraſing and kiſſing each other: over which is written thus, <hi>viz. December</hi> tokeneth many Love dayes. And an increaſe of wealth to Marchants, with Peace, with Love, joy and wealth, together with the word of truth, which the Lord haſten to poore <hi>England.</hi>
+               </p>
+               <p>In <hi>January Sol</hi> is in <hi>Aquaries,</hi> cold and moyſt, (good) and there is the picture of a great head blowing forth winde, great Mountaines. And ſwords, and bills, over which is written thus, <hi>viz. January</hi> betokens great windes, and Floods much warre.</p>
+               <p>In <hi>Febu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry Sol</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in <hi>Piſſes</hi> cold and moyſt (indiffrent) and there is the picture of a ſpade two o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d men in gownes, dead upon the ground, and two Gentlewomen in black baggs mourning and a it were he Lands end, by the Sea <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, over which is like wiſe written in old Ingliſh; as much as thus, <hi>viz. Febuary</hi> tokeneth death of <hi>Marchants</hi> and <hi>Marriners.</hi>
+               </p>
+               <p>In <hi>March Sol</hi> is in <hi>Aries,</hi> hot and dry; (good to bleed) the pictures are, a great head blowing forth furious winds; and three Gentlemen led by one bearing a poleax before them; and one bearing a croſſe upon his neck follow<g ref="char:EOLhyphen"/>ing them, and n the laſt place a g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat b ock: the obſervation upon theſe Em<g ref="char:EOLhyphen"/>blems is this; <hi>March</hi> betokeneth great windes an 5 Floods, and the com<g ref="char:EOLhyphen"/>mons ariſing.</p>
+            </div>
+            <div type="part">
+               <head>M. Iohn Bookers emphatical obſervations on this preſent yeare, 1644.</head>
+               <p>IN the new Moone preventionall, <hi>Marce</hi> wholy poſſeſſeth the Heavens which happineth on, the 27. of <hi>February, Marce</hi> being Lord of the yeare, he was in the firſt houſe, doth threaten loſſes, abortment and greivious la<g ref="char:EOLhyphen"/>bour to thoſe that are with Child</p>
+               <p>
+                  <hi>Jupiter</hi> ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h the next preheminence to <hi>Marce,</hi> and his poſition at the ſunne ingreſſe into <hi>Aries</hi> in the ſixt houſe, it maketh the condition of ſeruants, and foure footed beaſts, happy and proſperous. And ſo much the
+<pb facs="tcp:111277:3"/> more becauſe his happily joyned with <hi>Venus,</hi> temperateth the a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, and bringeth in the Northren windes. In the new Moone preventiall he was in the eight houſe, decreaſing the ſignes of death, and in the full Moone <hi>poſt<g ref="char:EOLhyphen"/>uentionall</hi> in the eleventh houſe, and increaſing the fortune, and renowne or life; giveth guifts unlooked for.</p>
+               <p>
+                  <hi>Saturne</hi> challengeth the third place, who at the ſunns entrance into <hi>Aries,</hi> in combuſt of the ſunn in the firſt houſe, and in his fall fortelleth loſſe to many: and griefe of thoſe that are at liberty: and ſtrife with a certaine <hi>Ambaſſadour:</hi> or a certaine Generall of an <hi>Army.</hi> In the new Moone preveronall; he is in the ſeventh houſe very neere <hi>Venus;</hi> who is almoſt in the eight: and both very unfortunate ſignifying death of women, and of ſoure ſooted beaſts, and at the full Moone polinentionall, he is in the eleventh houſe, the Moone ſeparat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng from the oppoſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion of the ſunn to oppoſitions, cunſing an opening of the gates of Heaven cold raines fleere or ſnow, and ha ſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and a troubled un<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſome aire, and deceiveth the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope, and expectation of many and bringeth miſchefe and doubts.</p>
+               <p>
+                  <hi>Mercury</hi> hath the fowerth place, he at the ſunns <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngreſſe into <hi>Aries:</hi> being unhappily placed in the end of the fourth houſe, in his det<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ment and very nigh the <hi>Dragons</hi> taile, and Ret<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ograde, ſignifyeth a priſon for the Clerkes of an Office and for thoſe that have the keeping of the common treaſure: and will hurt women with child: that they will neither ſuffer abortment, or will never come to birth. In the new Moone <hi>poonentio<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all</hi> he is in the ſeventh houſe where is ſignifyeth the unlawfull accompanying in the act of gener<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ch<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldren and the avoyd ng of women. At the firſt Moone poſt <hi>ventiouall;</hi> he is in the end if the middle of Heaven unfor<g ref="char:EOLhyphen"/>tun<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te caſting downe the <hi>Scribes,</hi> and the learned men from their honours to a Captaineſhippe and to the publike reward of Cities.</p>
+               <p>Thus farre of the principall ſignifycations of the yeare in this ſpring quarter which end on Monday the tenth of <hi>June.</hi>
+               </p>
+               <p>
+                  <hi>Jehovah Zaboath</hi> fig<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teth for us, let him ariſe, and let his enemies be diſperſed.</p>
+               <closer>
+                  <signed>Thus farre Mr. <hi>Booker.</hi>
+                  </signed>
+               </closer>
+               <argument>
+                  <p>
+                     <hi>Cardan</hi> fortells us concerning this ſpring quarter in which <hi>Mars</hi> rule<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h that it ſignifies burning of honies: thunder haile; and warre but the reaſon is becauſe reignes little in <hi>Saturnes</hi> houſe but in the turning of the yeare, at the entrance of the ſunn into <hi>Aries</hi> in the third houſe in the end thereof it ſignefies emnity, and increaſeth hat<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>red: and diſturbeth alience every where and b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cauſe he is nere the fourth houſe: and the Moone in a g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le ſigne: is lately fallen of from her oppoſition; doth pull downe her poyſoned
+<pb facs="tcp:111277:4"/> nature againe and infects the planets; and doth foreſhew great eff<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>on of blood: eſpecial<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y about the end of the yeare.</p>
+               </argument>
+               <closer>
+                  <signed>Thus farre Mr. <hi>Bookers</hi> cotation of <hi>C<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>n.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Thus it remaines written by learned <hi>Merlin</hi> in his obſervations upon <hi>Eaſter.</hi> we shall deale at this preſent concerning thoſe 500. men— in <hi>Suſa</hi> with the 10. ſonnes of the great Favour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te.</head>
+               <p>THE end of the enemies of the Church, is at the laſt ſhamefull, and full of ſorrow: and their wicked counſells turne at the laſt to their diſtruction: and are made a ruin and confuſion unto them: firſt therefore the day of this exceution is noted the 13. day of the 12. moneth <hi>Ader:</hi> which anſwereth to part of our <hi>Febuary,</hi> and the begining of <hi>March.</hi> In that day the counſells of the enemies are reported to fall out contrary to their opinions, for when they hoped to exerciſe dominion over the peo<g ref="char:EOLhyphen"/>ple of God; themſelves receive the overthrow: ſo the lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s which the great Favourite caſt, that he might find a fit day to roote out the people of God: were found to be deceitfull and lying: and thoſe who put their truſt in them, receive a iuſt reward of their impiety.</p>
+               <p>Although therefore, it ſometimes fall, out that <hi>Satan</hi> the author of all ſorceries: inchantments, and devination, do ſpeake truth (God by his iuſt iudgment and vengance giving force unto his errours) yet this is his only end, to delude, and draw into perdition, all thoſe curious folke which employ themſelves to ſuch arts, full of ſacri<g ref="char:EOLhyphen"/>lidge; and impiety, that thoſe who were not Lovers of the truth may periſh as they have deſerved: for as much as they have left God, in whom is the fountain of life and truth, to turne themſelves unto the author of death and father of lyes. By this meanes were
+<pb facs="tcp:111277:4"/> our Idolatrous <hi>Leagen</hi> deceived, who by force of the <hi>Bulls</hi> and <hi>Par<g ref="char:EOLhyphen"/>dons</hi> they had from the Pope of their <hi>Iubilees,</hi> Pilgrimages, pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ceſſions: of their madneſſe in the worſhipping of <hi>Images,</hi> and fooliſh devotions; and by the fortelling of certaine <hi>Almanackes,</hi> and deceits of other like leger-du-maines, did promiſe unto them<g ref="char:EOLhyphen"/>ſelve, the wiſhed and happy end of their purpoſes, which is the aboliſhing of the Reformed Churches and Doctrine of the Goſ<g ref="char:EOLhyphen"/>pell. But the time and day which ſeemed unto them fit for their definements turnes unto them, in a day of ſorrow, ſhame, and eter<g ref="char:EOLhyphen"/>nall confuſion— The people of God then wiſely provide for the affaires: not giving themſelves ſo to ioy, and gladneſſe, but dil<g ref="char:EOLhyphen"/>ligently ſtand upon their guard, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rovide them of <hi>Armour:</hi> gather themſelves <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogether at certaine times and places, and principally did fly unto God by prayers, deſiring that he who hither had ſhew<g ref="char:EOLhyphen"/>ed them ſo great favour, would make perfect the worke of their de<g ref="char:EOLhyphen"/>liverance, and ſurely then had they moſt neede of Gods helpe, when the fight with their enemies, for unleſſe God had danted their courage and weakened their force and proweſſe, there was now hope they ſhould be vanquiſhed.</p>
+               <p>Furthermore, they conteine themſelves within the bonds of the proclamation, that they onely uſe force, againſt thoſe that ſeeke their hurt; that is thoſe that were in armes to hurt their wives and children: <hi>for this was the forme of the firſt edict.</hi>
+               </p>
+               <p>
+                  <hi>But by what Law do they take up armes against them.</hi> Even bear<g ref="char:EOLhyphen"/>ing themſelves bold upon the Kings Decree, which was not called back, although one contrary be publiſhed.</p>
+               <closer>
+                  <signed>Thus farre <hi>Merlin.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>AN Old Propheſy concerning the great Turke.</hi> Patiſſa homomos ghelur, caiferun menleker alur kenzal almai alur kapze iler ie di &amp;c.</head>
+               <pb facs="tcp:111277:5"/>
+               <p>
+                  <hi>In Engliſh thus.</hi>
+               </p>
+               <p>OUR Emperour ſhall come, he ſhall poſeſſe the Realme of an Jnfidell Prince, he ſhall take the read apple: and mak it ſubject to his power If at the ſeventh yeare of his comm nd, the Chriſtan ſword doth not ad<g ref="char:EOLhyphen"/>vance; he ſhall rule unto the twelfth yeare, he ſhall build houſes plant vines compaſſe in gardens with hedges, and beget children: but after the twelfe yeare that he hath held the red apple, the Chriſtian ſword ſhall appeare, and put the <hi>Turks</hi> to flight.</p>
+            </div>
+            <div type="part">
+               <lg>
+                  <head>A Propheſe of Merlins.</head>
+                  <l>The crimſon Dragon with his one fearce pawes,</l>
+                  <l>Shall teare his porpper bowells gainſt the Lawes,</l>
+                  <l>Of whoſome nature plague and famine then,</l>
+                  <l>Shall fill the barren earth, with ſhrowdes of men,</l>
+                  <l>After the Dragon, whoſe ſmooth ſcales are wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t:</l>
+                  <l>Hither the <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mon</hi> Daughter ſhall in vite,</l>
+                  <l>And crowne themſelves: againſt whom ſhall riſe,</l>
+                  <l>An Eagle from the Rock, and both ſurpriſe.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
